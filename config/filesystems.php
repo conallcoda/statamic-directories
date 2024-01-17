@@ -65,6 +65,14 @@ return [
             'throw' => false,
         ],
 
+        'press' => [
+            'driver' => 'local',
+            'root' => public_path('press'),
+            'url' => '/press',
+            'visibility' => 'public',
+            'throw' => false,
+        ],
+
     ],
 
     /*
