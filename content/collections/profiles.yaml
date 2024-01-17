@@ -1,4 +1,6 @@
 title: Profiles
+taxonomies:
+  - tag
 revisions: false
 date_behavior:
   past: public

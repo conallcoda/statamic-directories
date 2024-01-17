@@ -1,0 +1,9 @@
+title: Tag
+preview_targets:
+  -
+    label: Term
+    url: '{permalink}'
+    refresh: true
+template: tag.index
+term_template: tag.show
+layout: layout

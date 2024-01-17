@@ -6,5 +6,7 @@ photo:
   - licensed-image.jpg
 text_field: barrack@gmail.com
 updated_by: 5e5f59e1-1a18-43b0-a74f-43d6537ce252
-updated_at: 1705502532
+updated_at: 1705504994
+tag:
+  - international-speaker
 ---
