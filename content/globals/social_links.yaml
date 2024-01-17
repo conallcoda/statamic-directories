@@ -1,0 +1,15 @@
+title: 'Social Links'
+data:
+  items:
+    -
+      id: lrhypvi6
+      label: Facebook
+      link: 'https://www.facebook.com'
+      type: new_set
+      enabled: true
+    -
+      id: lrhyq7se
+      label: Twitter
+      link: 'https://www.twitter.com'
+      type: new_set
+      enabled: true
