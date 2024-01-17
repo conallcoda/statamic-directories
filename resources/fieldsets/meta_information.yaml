@@ -1,0 +1,41 @@
+title: 'Meta Information'
+fields:
+  -
+    handle: meta_title
+    field:
+      input_type: text
+      antlers: false
+      type: text
+      display: 'Meta Title'
+      icon: text
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      replicator_preview: true
+      hide_display: false
+  -
+    handle: meta_description
+    field:
+      input_type: text
+      antlers: false
+      type: text
+      display: 'Meta Description'
+      icon: text
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      replicator_preview: true
+      hide_display: false
+  -
+    handle: meta_keywords
+    field:
+      input_type: text
+      antlers: false
+      type: text
+      display: 'Meta Keywords'
+      icon: text
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      replicator_preview: true
+      hide_display: false
