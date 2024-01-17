@@ -1,0 +1,18 @@
+tabs:
+  main:
+    display: Menu Item
+    sections:
+      -
+        fields:
+          -
+            handle: open_in_new_tab
+            field:
+              default: false
+              type: toggle
+              display: 'Open in New Tab?'
+              icon: toggle
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false

@@ -1,0 +1,13 @@
+tree:
+  -
+    id: 7f16c636-a5f6-4a7b-b4c0-ca1e2a013e5e
+    title: Google
+    url: 'https://www.google.com'
+    data:
+      open_in_new_tab: true
+  -
+    id: 5b213b94-c7b5-4c4b-80ac-e53c7d2e3bde
+    title: Home
+    url: /
+    data:
+      open_in_new_tab: false
